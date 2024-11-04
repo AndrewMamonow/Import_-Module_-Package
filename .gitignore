@@ -1,2 +1,5 @@
 venv/
-__picache__
+__picache__/
+application/__picache__/
+package/__picache__/
+db/__picache__/
