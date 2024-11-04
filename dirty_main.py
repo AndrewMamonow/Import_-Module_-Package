@@ -11,4 +11,4 @@ if __name__ == '__main__':
     item_sum = 0
     for item in personal_list:
         item_sum += int(item[1])
-    print(f'Итого на{current_date} к выдаче {item_sum}')
+    print(f'Итого на {current_date} к выдаче {item_sum}')
