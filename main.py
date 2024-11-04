@@ -4,6 +4,7 @@ from application.db.people import get_employees
 from application.salary import calculate_salary
 from application.db.personals import personals
 
+
 def table_print(table_title:list, table_list:list):
 # Функция формирования таблицы для вывода   
     Pretty_table = PrettyTable()
