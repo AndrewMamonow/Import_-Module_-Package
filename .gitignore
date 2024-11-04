@@ -1,5 +1,5 @@
 venv/
-__picache__/
+__pycache__/
 application/__pycache__/
 package/__pycache__/
 db/__pycache__/
