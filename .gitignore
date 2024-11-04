@@ -1,5 +1,5 @@
 venv/
 __picache__/
-application/__picache__/
-package/__picache__/
-db/__picache__/
+application/__pycache__/
+package/__pycache__/
+db/__pycache__/
